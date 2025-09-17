@@ -1,4 +1,4 @@
-# Wastewater Surveillance AI System
+# Real-Time Surveillance AI System
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red.svg)](https://streamlit.io)
@@ -455,3 +455,4 @@ training_config = {
 ---
 
 **This wastewater surveillance system provides enterprise-grade pathogen and mycotoxin monitoring with AI-powered risk assessment, real-time alerting, and comprehensive dashboard visualization for public health protection.**
+
